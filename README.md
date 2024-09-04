@@ -22,8 +22,8 @@ To explain the observations, I have chosen a non-polynomial linear regression mo
 11. While paint color is not particularly important feature, among colors yellow(+2000), purple(+1200) and black(+1100) sells for the highest price and silver(-1300), green(-1200) and brown(-900) sell for the lowest 
 
 ### Future Directions:
-    1. Build a model taking into consideration the 'manufacturer', 'model', 'state', or 'region' parameters that were excluded from this analysis.
-    2. Split the dataset between trucks and passenger cars, as it would create two more interpretable models that are currently intertwined in the existing model.
+1. Build a model taking into consideration the 'manufacturer', 'model', 'state', or 'region' parameters that were excluded from this analysis.
+2. Split the dataset between trucks and passenger cars, as it would create two more interpretable models that are currently intertwined in the existing model.
 	
 ![](images/Fig1.png)
 ![](images/Fig1b.png)
