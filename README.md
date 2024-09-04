@@ -2,7 +2,7 @@
 ![](images/kurt.jpeg)
 
 ### Link to analysis:
-	https://
+	https://github.com/AdrianGrzybowski/Car_ML_exercise/blob/main/Analysis.ipynb
 ### Business Objectives:
 	The objective of this exercise is to create predictive model of of used car prices that can be used to readily asses fair value for used cars. 
 
